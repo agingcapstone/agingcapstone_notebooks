@@ -10,3 +10,23 @@ Urban senior populations are expected to grow significantly in the coming decade
 ----------------------------------------------------------------------------------------------
 **Result**
 ![Alt_text](Results_and_Visualization/Main_Result.png)
+
+-----------------------------------------------------------------------------------------------
+**Content**
+
+|Direction                                             |Corresponding Notebooks                            |
+|------------------------------------------------------|---------------------------------------------------|
+|Data cleaning and wrangling:                          |1.1 personClean.ipynb                              |
+|Clean and merge traffic fatality data collected       |1.2 accidentClean.ipynb                            |
+|from the NHTSA and SPFA spatial data in one row       |2. mergeClean.ipynb                                |
+|per accident manner                                   |3. spatialJoinnDescriptiveStats.ipynb              |
+|------------------------------------------------------|---------------------------------------------------|
+|Reorganized dataset in census tract level for         |4. CensusTractMerge.ipynb                          |
+|linear regression model                               |                                                   |
+|------------------------------------------------------|---------------------------------------------------|
+|Linear regression model and robustness check          |5.1 Linear_regression.ipynb                        |
+|                                                      |5.2 LR_RobustnessCheck.ipynb                       |
+|------------------------------------------------------|---------------------------------------------------|
+|Model visualization                                   |6. Line_Plots_For_Final_Report.ipynb               |
+|Report (Previous progressive reports and final report)|Report (folder)                                    |
+|Model results and graphs                              |Results_and_Visualization (folder)                 |
