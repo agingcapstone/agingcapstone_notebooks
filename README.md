@@ -15,6 +15,7 @@ Urban senior populations are expected to grow significantly in the coming decade
 **Content**
 
 |Direction                                             |Corresponding Notebooks                            |
+|------------------------------------------------------|---------------------------------------------------|
 |Data cleaning and wrangling                           |1.1 personClean.ipynb                              |
 |                                                      |1.2 accidentClean.ipynb                            |
 |                                                      |2. mergeClean.ipynb                                |
