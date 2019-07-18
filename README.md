@@ -16,17 +16,15 @@ Urban senior populations are expected to grow significantly in the coming decade
 
 |Direction                                             |Corresponding Notebooks                            |
 |------------------------------------------------------|---------------------------------------------------|
-|Data cleaning and wrangling:                          |1.1 personClean.ipynb                              |
-|Clean and merge traffic fatality data collected       |1.2 accidentClean.ipynb                            |
-|from the NHTSA and SPFA spatial data in one row       |2. mergeClean.ipynb                                |
-|per accident manner                                   |3. spatialJoinnDescriptiveStats.ipynb              |
+|Data cleaning and wrangling                           |1.1 personClean.ipynb                              |
+|                                                      |1.2 accidentClean.ipynb                            |
+|                                                      |2. mergeClean.ipynb                                |
+|                                                      |3. spatialJoinnDescriptiveStats.ipynb              |
 |------------------------------------------------------|---------------------------------------------------|
-|Reorganized dataset in census tract level for         |4. CensusTractMerge.ipynb                          |
-|linear regression model                               |                                                   |
-|------------------------------------------------------|---------------------------------------------------|
+|Reorganized dataset for linear regression model       |4. CensusTractMerge.ipynb                          |
+|                                                      |                                                   |
 |Linear regression model and robustness check          |5.1 Linear_regression.ipynb                        |
 |                                                      |5.2 LR_RobustnessCheck.ipynb                       |
-|------------------------------------------------------|---------------------------------------------------|
 |Model visualization                                   |6. Line_Plots_For_Final_Report.ipynb               |
 |Report (Previous progressive reports and final report)|Report (folder)                                    |
 |Model results and graphs                              |Results_and_Visualization (folder)                 |
