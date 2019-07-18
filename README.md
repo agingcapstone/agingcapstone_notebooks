@@ -1,5 +1,5 @@
-# Senior Pedestrians in NYC: A Diff-in-Diff Approach to Evaluating Safe Streets for Seniors
-## Organization: New York Univeristy Center for Urban Science + Progress
+## Senior Pedestrians in NYC: A Diff-in-Diff Approach to Evaluating Safe Streets for Seniors
+### Organization: New York Univeristy Center for Urban Science + Progress
 ### Sponsor: Daniela Hochfellner
 ### Pengzi Li, Sam Burns, Po-Yang Kang, Asilayi Bahetibieke
 **Abstract**
