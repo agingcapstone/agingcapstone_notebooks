@@ -15,14 +15,11 @@ Urban senior populations are expected to grow significantly in the coming decade
 **Content**
 
 |Direction                                             |Corresponding Notebooks                            |
-|------------------------------------------------------|---------------------------------------------------|
 |Data cleaning and wrangling                           |1.1 personClean.ipynb                              |
 |                                                      |1.2 accidentClean.ipynb                            |
 |                                                      |2. mergeClean.ipynb                                |
 |                                                      |3. spatialJoinnDescriptiveStats.ipynb              |
-|------------------------------------------------------|---------------------------------------------------|
 |Reorganized dataset for linear regression model       |4. CensusTractMerge.ipynb                          |
-|                                                      |                                                   |
 |Linear regression model and robustness check          |5.1 Linear_regression.ipynb                        |
 |                                                      |5.2 LR_RobustnessCheck.ipynb                       |
 |Model visualization                                   |6. Line_Plots_For_Final_Report.ipynb               |
