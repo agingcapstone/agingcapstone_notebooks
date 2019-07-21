@@ -7,7 +7,16 @@
 
 Urban senior populations are expected to grow significantly in the coming decades. This demographic trend requires adjustments to policy and infrastructure in cities. New York City has implemented its Safe Streets for Seniors (SSfS) program, which includes identifying Senior Pedestrian Focus Areas (SPFAs) and making structural improvements designed to improve safety for senior pedestrians to address its aging population. This study investigates whether or not the established SPFAs improved safety for seniors. Using difference-in-difference estimators, we find that setting up SPFA zones in NYC leads to a decrease of about 34 percent in the number of seniors killed in motor vehicle accidents. The number of accidents involving senior pedestrians relative to non-SPFA zones decreased too, however only by 5 percent. Overall, our results show that New York City’s programs addressing senior citizens is successful  and suggest that other cities in the US and abroad should adopt transportation policies similar to NYC’s in order to protect senior citizens.
 
+**URL of our website**:https://agingcapstone.github.io/ssfs/
+
 ----------------------------------------------------------------------------------------------
+**Data**
+
+Our diff-in-diff analysis relies primarily on two data sets - traffic fatality data collected from the National Highway Traffic Safety Administration (NHTSA) and SPFA spatial data from NYC DOT. The data can be download through the following links:
+
+**NHTSA traffic fatality data**: ftp://ftp.nhtsa.dot.gov/fars/ 
+**SPFA spatial data**: https://data.cityofnewyork.us/Transportation/VZV_Safe-Streets-for-Seniors/bsuh-ywiw
+-----------------------------------------------------------------------------------------------
 **Result**
 ![Alt_text](Results_and_Visualization/Main_Result.png)
 
