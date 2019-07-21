@@ -15,6 +15,8 @@ Urban senior populations are expected to grow significantly in the coming decade
 Our diff-in-diff analysis relies primarily on two data sets - traffic fatality data collected from the National Highway Traffic Safety Administration (NHTSA) and SPFA spatial data from NYC DOT. The data can be download through the following links:
 
 **NHTSA traffic fatality data**: ftp://ftp.nhtsa.dot.gov/fars/ 
+
+
 **SPFA spatial data**: https://data.cityofnewyork.us/Transportation/VZV_Safe-Streets-for-Seniors/bsuh-ywiw
 -----------------------------------------------------------------------------------------------
 **Result**
