@@ -18,6 +18,7 @@ Our diff-in-diff analysis relies primarily on two data sets - traffic fatality d
 
 
 **SPFA spatial data**: https://data.cityofnewyork.us/Transportation/VZV_Safe-Streets-for-Seniors/bsuh-ywiw
+
 -----------------------------------------------------------------------------------------------
 **Result**
 ![Alt_text](Results_and_Visualization/Main_Result.png)
