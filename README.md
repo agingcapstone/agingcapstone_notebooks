@@ -41,7 +41,7 @@ Our diff-in-diff analysis relies primarily on two data sets - traffic fatality d
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-**Version**:
+**Package Version**:
 - python: 3.7.3
 - pandas: 0.24.2
 - dbfread: 2.0.7
