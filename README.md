@@ -26,15 +26,15 @@ Our diff-in-diff analysis relies primarily on two data sets - traffic fatality d
 -----------------------------------------------------------------------------------------------
 **Content**
 
-|Direction                                                 |Corresponding Notebooks                            |
-|----------------------------------------------------------|---------------------------------------------------|
-|**Data cleaning and wrangling**                           |1.1 personClean.ipynb                              |
-|                                                          |1.2 accidentClean.ipynb                            |
-|                                                          |2. mergeClean.ipynb                                |
-|                                                          |3. spatialJoinnDescriptiveStats.ipynb              |
-|**Reorganized dataset for linear regression model**       |4. CensusTractMerge.ipynb                          |
-|**Linear regression model and robustness check**          |5.1 Linear_regression.ipynb                        |
-|                                                          |5.2 LR_RobustnessCheck.ipynb                       |
-|**Model visualization**                                   |6. Line_Plots_For_Final_Report.ipynb               |
-|**Report (Previous progressive reports and final report)**|Report (folder)                                    |
-|**Model results and graphs**                              |Results_and_Visualization (folder)                 |
+|Direction                                                 |Corresponding Notebooks               |Description        
+|----------------------------------------------------------|--------------------------------------|---------------------------
+|**Data cleaning and wrangling**                           |1.1 personClean.ipynb                 |Aggregate the person data into accident level (from one row per person to one row per accident level)
+|                                                          |1.2 accidentClean.ipynb               |
+|                                                          |2. mergeClean.ipynb                   |
+|                                                          |3. spatialJoinnDescriptiveStats.ipynb |
+|**Reorganized dataset for linear regression model**       |4. CensusTractMerge.ipynb             |
+|**Linear regression model and robustness check**          |5.1 Linear_regression.ipynb           |
+|                                                          |5.2 LR_RobustnessCheck.ipynb          |
+|**Model visualization**                                   |6. Line_Plots_For_Final_Report.ipynb  |
+|**Report (Previous progressive reports and final report)**|Report (folder)                       |
+|**Model results and graphs**                              |Results_and_Visualization (folder)    |
