@@ -40,3 +40,15 @@ Our diff-in-diff analysis relies primarily on two data sets - traffic fatality d
 |**Model results and graphs**                              |Results_and_Visualization (folder)      |Figures and tables about th linear regression model in our final report.|
 
 
+-----------------------------------------------------------------------------------------------------------------------------
+**Version**:
+- python: 3.7.3
+- pandas: 0.24.2
+- dbfread: 2.0.7
+- geopandas: 0.5.0
+- shapely: 1.6.4.post2
+- fiona: 1.8.4
+- matplotlib: 3.0.3
+- numpy: 1.16.2
+- seaborn: 0.9.0
+- requests: 2.22.0
