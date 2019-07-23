@@ -26,17 +26,17 @@ Our diff-in-diff analysis relies primarily on two data sets - traffic fatality d
 -----------------------------------------------------------------------------------------------
 **Content**
 
-|Direction                                                 |Corresponding Notebooks               |Description        
-|----------------------------------------------------------|--------------------------------------|---------------------------
-|**Data cleaning and wrangling**                           |1.1 personClean.ipynb                 |Aggregate the person data into accident level (from one row per person to one row per accident level).|
-|                                                          |1.2 accidentClean.ipynb               |Import yearly accident data and merge them into one dataset.| 
-|                                                          |2. mergeClean.ipynb                   |Merge person and accident data into one dataset.|
-|                                                          |3. spatialJoinnDescriptiveStats.ipynb |Merge SPFA spatial data with NHTSA (accident and person) data.|
-|**Reorganized dataset for linear regression model**       |4. CensusTractMerge.ipynb             |Reorganized dataset on per census tract level for linear regression model.|
-|**Linear regression model and robustness check**          |5.1 Linear_regression.ipynb           |Linear regression model (estimate using 'post' variables (accidents occurred after first round policy implementation).|
-|                                                          |5.2 LR_RobustnessCheck.ipynb          |Linear regression model (estimate using yearly variables (accidents occurred every year) for robustness check.|
-|**Model visualization**                                   |6. Line_Plots_For_Final_Report.ipynb  |Line plots of three dependent variables to visualize the trend thoughout the years.|
-|**Report (Previous progressive reports and final report)**|Report (folder)                       |Our previous progressive report and final report.|
-|**Model results and graphs**                              |Results_and_Visualization (folder)    |Figures and tables about th linear regression model in our final report.|
+|Direction                                                 |Corresponding Notebooks                 |Description        
+|----------------------------------------------------------|--------------------------------------  |---------------------------|
+|**Data cleaning and wrangling**                           |1.1 personClean.ipynb                   |Aggregate the person data into accident level (from one row per person to one row per accident level).|
+|                                                          |1.2 accidentClean.ipynb                 |Import yearly accident data and merge them into one dataset.| 
+|                                                          |2. mergeClean.ipynb                     |Merge person and accident data into one dataset.|
+|                                                          |3. spatialJoinnDescriptiveStats.ipynb   |Merge SPFA spatial data with NHTSA (accident and person) data.|
+|**Reorganized dataset for linear regression model**       |4. CensusTractMerge.ipynb               |Reorganized dataset on per census tract level for linear regression model.|
+|**Linear regression model and robustness check**          |5.1 Linear_regression.ipynb             |Linear regression model (estimate using 'post' variables (accidents occurred after first round policy implementation).|
+|                                                          |5.2 LR_RobustnessCheck.ipynb            |Linear regression model (estimate using yearly variables (accidents occurred every year) for robustness check.|
+|**Model visualization**                                   |6. Line_Plots_For_Final_Report.ipynb    |Line plots of three dependent variables to visualize the trend thoughout the years.|
+|**Report (Previous progressive reports and final report)**|Report (folder)                         |Our previous progressive report and final report.|
+|**Model results and graphs**                              |Results_and_Visualization (folder)      |Figures and tables about th linear regression model in our final report.|
 
-|                                                          |5.2 LR_RobustnessCheck.ipynb          |Linear regression model (estimate using yearly variables (accidents occurred every year) for robustness check.|ur
+
